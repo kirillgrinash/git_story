@@ -1,0 +1,6 @@
+Hello, 
+Today I am learning how to use Git. It looks complex but seems very useful.
+
+This is our task
+Exercise:
+Create a new folder within the ‘Actualize’ folder called ‘git_story’. It should have a file with a very short story (3 to 5 sentences). Turn it into a git repository, and make 3 changes, tracking each change with git.
